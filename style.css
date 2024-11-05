@@ -1,0 +1,40 @@
+/* General Reset */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Menu Section Styling */
+#menu {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#menu h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#menu .card {
+    margin-bottom: 15px;
+}
+
+/* Order Summary Section */
+#order-summary {
+    padding: 20px;
+}
+
+#order-summary h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#orderList {
+    min-height: 200px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
